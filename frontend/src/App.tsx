@@ -1,9 +1,8 @@
-import React from 'react';
-
-
+import {ReactComponent as GithubIcon} from "./assets/img/github.svg"
+import Navbar from "componets/navbar";
 function App() {
   return (
-    <h1>Home Page</h1>
+    <Navbar />
   );
 }
 
