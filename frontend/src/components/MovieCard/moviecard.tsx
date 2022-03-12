@@ -1,5 +1,4 @@
 import MovieScore from "components/MovieScore/moviescore";
-import "./moviecard.css";
 import 'bootstrap/dist/css/bootstrap.css';
 import { Link } from "react-router-dom";
 import { Movie } from "types/Movies";
